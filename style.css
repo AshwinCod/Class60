@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+#h1{
+    font-size: medium;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#webApp{
+    width: 100%;
+    height: 800;
+    background-color: aqua;
+}
+#games{
+    width: 100%;
+    height: 450;
+    background-color: brown;
+}
+img{
+   height: 250; 
+   width: 250;
+}
+#nativeApp{
+    width: 100%;
+    height: 750;
+    background-color:coral;
+}
+.line{
+    height: 5px;
+    width: 100px;
+    background-color: black;
+    margin: 8px auto;
+}
